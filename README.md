@@ -46,5 +46,4 @@ Leveraging Python and key libraries this project helped to identify the liklihoo
 
 #### Future Work
 * Experiment with advanced algorithms like Random Forest and Gradient Boosting.
-* Otimize hyperparameters to improve model accuracy.
-* Explore feature engineering for better predictions.
+* Optimize hyperparameters to improve model accuracy.
